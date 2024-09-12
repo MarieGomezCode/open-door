@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\data\\dbcontextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:data\\dbcontextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\controllers\\controladorautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:controllers\\controladorautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\models\\solicitudiniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:models\\solicitudiniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\repositorios\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:repositorios\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|c:\\users\\conci\\desktop\\devops-back\\authservice\\repositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6135C2A6-D227-422D-95E7-B311ACF0AE2A}|AuthService.csproj|solutionrelative:repositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-12T21:28:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-12T21:22:04.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Repositorios\\IRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IRepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Repositorios\\IRepositorioUsuario.cs",
+              "RelativeToolTip": "Repositorios\\IRepositorioUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:48:29.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SolicitudInicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Models\\SolicitudInicioSesion.cs",
+              "RelativeDocumentMoniker": "Models\\SolicitudInicioSesion.cs",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Models\\SolicitudInicioSesion.cs",
+              "RelativeToolTip": "Models\\SolicitudInicioSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:47:37.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:47:07.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:26:40.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T17:25:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.http",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\AuthService.http",
+              "RelativeDocumentMoniker": "AuthService.http",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\AuthService.http",
+              "RelativeToolTip": "AuthService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-12T21:05:26.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextApp.cs",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Data\\DbContextApp.cs",
+              "RelativeDocumentMoniker": "Data\\DbContextApp.cs",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Data\\DbContextApp.cs",
+              "RelativeToolTip": "Data\\DbContextApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:50:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Repositorios\\RepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "Repositorios\\RepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Repositorios\\RepositorioUsuario.cs",
+              "RelativeToolTip": "Repositorios\\RepositorioUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:49:02.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.csproj",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\AuthService.csproj",
+              "RelativeDocumentMoniker": "AuthService.csproj",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\AuthService.csproj",
+              "RelativeToolTip": "AuthService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T19:13:14.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControladorAutenticacion.cs",
+              "DocumentMoniker": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Controllers\\ControladorAutenticacion.cs",
+              "RelativeDocumentMoniker": "Controllers\\ControladorAutenticacion.cs",
+              "ToolTip": "C:\\Users\\conci\\Desktop\\DevOps-Back\\AuthService\\Controllers\\ControladorAutenticacion.cs",
+              "RelativeToolTip": "Controllers\\ControladorAutenticacion.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAqwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:51:07.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
